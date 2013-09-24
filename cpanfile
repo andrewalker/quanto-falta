@@ -1,4 +1,4 @@
-requires Web::Simple;
-requires Text::Xslate;
-requires Encode;
-requires DateTime;
+requires "Web::Simple";
+requires "Text::Xslate";
+requires "Encode";
+requires "DateTime";
