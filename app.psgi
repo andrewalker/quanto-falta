@@ -16,9 +16,9 @@ use DateTime;
         my $today = DateTime->now->set_time_zone('America/Sao_Paulo')->truncate(to => 'day');
 
         my $big_day = DateTime->new(
-            year  => 2013,
-            month => 9,
-            day   => 25,
+            year  => 2014,
+            month => 2,
+            day   => 2,
             time_zone => 'America/Sao_Paulo',
         );
 
